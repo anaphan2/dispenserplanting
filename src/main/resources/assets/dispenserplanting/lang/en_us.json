@@ -1,0 +1,13 @@
+{
+  "itemGroup.dispenserplanting": "Example Mod Tab",
+  "block.dispenserplanting.example_block": "Example Block",
+  "item.dispenserplanting.example_item": "Example Item",
+
+  "dispenserplanting.configuration.title": "Dispenser Planting Configs",
+  "dispenserplanting.configuration.section.dispenserplanting.common.toml": "Dispenser Planting Configs",
+  "dispenserplanting.configuration.section.dispenserplanting.common.toml.title": "Dispenser Planting Configs",
+  "dispenserplanting.configuration.items": "Item List",
+  "dispenserplanting.configuration.logDirtBlock": "Log Dirt Block",
+  "dispenserplanting.configuration.magicNumberIntroduction": "Magic Number Text",
+  "dispenserplanting.configuration.magicNumber": "Magic Number"
+}
