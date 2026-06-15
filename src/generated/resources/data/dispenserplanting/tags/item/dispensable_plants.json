@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:saplings",
+    "#minecraft:villager_plantable_seeds",
+    "#dispenserplanting:nether_fungi",
+    "#c:mushrooms",
+    "minecraft:nether_wart"
+  ]
+}

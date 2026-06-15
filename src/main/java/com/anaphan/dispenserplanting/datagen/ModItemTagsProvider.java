@@ -27,6 +27,7 @@ public class ModItemTagsProvider extends ItemTagsProvider {
                 .addTag(ItemTags.SAPLINGS)
                 .addTag(ItemTags.VILLAGER_PLANTABLE_SEEDS)
                 .addTag(ModTags.NETHER_FUNGI)
-                .addTag(Tags.Items.MUSHROOMS);
+                .addTag(Tags.Items.MUSHROOMS)
+                .add(Items.NETHER_WART);
     }
 }
