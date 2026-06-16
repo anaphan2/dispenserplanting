@@ -29,6 +29,8 @@ displayURL="https://github.com/anaphan2/DispenserPlanting"
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="dispenserplanting.png" #optional
 
+authors = "anaphan"
+
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 Allows dispensers to plant plants automatically
@@ -66,4 +68,4 @@ Supported:
     # This version range declares a minimum of the current minecraft version up to but not including the next major version
     versionRange="${minecraft_version_range}"
     ordering="NONE"
-    side="SERVER"
+    side="BOTH"
